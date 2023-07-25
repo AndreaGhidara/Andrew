@@ -6,7 +6,7 @@ Appassionato Junior Web Developer con una passione sfrenata per il mondo del web
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,bootstrap,tailwind,vue,php,laravel,figma,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,bootstrap,tailwind,vue,php,laravel,figma,postman&perline=8" />
   </a>
 </p>
 
