@@ -21,10 +21,7 @@ Appassionato Junior Web Developer con una passione sfrenata per il mondo del web
 
 <br>
 
-## 📊 GitHub Stats & Trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=andreaghidara&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 📊 GitHub statistic:
 <br>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreaghidara&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
